@@ -27,7 +27,7 @@ export default function About() {
         <span className="font-medium">Kubernetes</span> as well as cloud based infrastructure.
         I also plan to get{" "} <span className="font-medium">CKA</span> certified in the near future.
         I'm also experienced in{" "} <span className="italic">network administration</span>.
-        Especially with{" "} <span className="font-medium">Huawei</span> and{" "} <span className="font-medium">Fortinet</span> devices.
+        Especially with{" "} <span className="font-medium">Huawei</span>, <span className="font-medium">Ubiquiti</span> and{" "} <span className="font-medium">Fortinet</span> devices.
       </p>
 
       <p>

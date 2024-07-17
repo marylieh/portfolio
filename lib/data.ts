@@ -127,4 +127,5 @@ export const skillsData = [
   "Spigot",
   "DevBukkit",
   "Huawei",
+  "Ubiquiti",
 ] as const;
